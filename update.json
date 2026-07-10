@@ -1,0 +1,12 @@
+{
+  "versionName": "1.0",
+  "versionCode": 1,
+  "apkUrl": "https://raw.githubusercontent.com/iamvdk09/EpicZ-Updates/main/app-release.apk",
+  "sha256": "b6408d877f0df1bd5ef879216e35a3e23abc8fbe86cff6369f4554026ee4b71",
+  "size": 12042432,
+  "releaseNotes": [
+    "Self-hosted OTA update system: check, download, verify, and install new versions from this repository",
+    "Queue screen now shows current and upcoming tracks",
+    "Songs list supports Play Next, Add to Queue, and Delete Song"
+  ]
+}
