@@ -4,6 +4,10 @@
 
 - Now Playing's volume icon toggles mute: tap once to mute, tap again to
   restore the volume you were at before muting.
+- Rebuilt and signed with EpicZ's release key (previous builds were
+  debug-signed). Anyone on an older debug-signed install will need to
+  uninstall and reinstall once to pick this up; all updates after this one
+  will apply in place.
 
 ## 1.0 (versionCode 1)
 

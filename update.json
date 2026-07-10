@@ -2,9 +2,10 @@
   "versionName": "1.1",
   "versionCode": 2,
   "apkUrl": "https://raw.githubusercontent.com/iamvdk09/EpicZ-Updates/main/app-release.apk",
-  "sha256": "5261d22d311f32857c8fad5163e16a6eeade07df9c2e7927b002c9d34d877f2b",
-  "size": 10872498,
+  "sha256": "5f0d8916ef169c5905c9a6bf4fad381c2134b7647270b98d9f76e7501f645c2e",
+  "size": 8574648,
   "releaseNotes": [
-    "Now Playing volume icon toggles mute: tap once to mute, tap again to restore your previous volume"
+    "Now Playing volume icon toggles mute: tap once to mute, tap again to restore your previous volume",
+    "Now signed with EpicZ's release key instead of a debug key, so future updates install in place without losing your data"
   ]
 }
