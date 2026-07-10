@@ -1,5 +1,10 @@
 # EpicZ Release Notes
 
+## 1.1 (versionCode 2)
+
+- Now Playing's volume icon toggles mute: tap once to mute, tap again to
+  restore the volume you were at before muting.
+
 ## 1.0 (versionCode 1)
 
 - Self-hosted OTA update system: EpicZ can now check this repository for new
