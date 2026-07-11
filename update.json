@@ -1,13 +1,11 @@
 {
-  "versionName": "1.2",
-  "versionCode": 3,
+  "versionName": "1.2.1",
+  "versionCode": 4,
   "apkUrl": "https://raw.githubusercontent.com/iamvdk09/EpicZ-Updates/main/app-release.apk",
-  "sha256": "4125b4d27a42f27aaa98705cb6521e54a09075db5c1af71cd6097a5108d2238b",
-  "size": 8581781,
+  "sha256": "1f85a4a8d89a5a055d4df3137812be264899a5c43a4b4db3b9b9e55041e9cfdf",
+  "size": 8582705,
   "releaseNotes": [
-    "Every song list (Home, Albums, Artists, Library, Favorites, Playlists, Search) now has a matching ⋮ menu: Play Next, Add to Queue, Add to Playlist, Delete Song",
-    "Long-press any song to add it straight to a playlist, or create a new one on the spot",
-    "Library now has a Refresh button to pick up newly added or removed songs without restarting the app",
-    "Library tabs reordered to Albums, Songs, Artists (Songs still opens by default)"
+    "Fixed a bug where \"Install Update\" kept appearing in Settings even after an update had already been installed",
+    "The app now correctly detects when it's already up to date and clears stale download state automatically"
   ]
 }

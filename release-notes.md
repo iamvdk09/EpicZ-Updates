@@ -1,5 +1,13 @@
 # EpicZ Release Notes
 
+## 1.2.1 (versionCode 4)
+
+- Fixed a bug where Settings kept showing "Install Update" even after an
+  update had already been successfully installed.
+- The app now revalidates its cached update state against the running
+  version every time Settings or Software Updates opens, and clears out any
+  stale downloaded APK left behind by a previous install.
+
 ## 1.2 (versionCode 3)
 
 - Every song list in the app (Home, Albums, Artists, Library, Favorites,
