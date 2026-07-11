@@ -1,5 +1,17 @@
 # EpicZ Release Notes
 
+## 1.2 (versionCode 3)
+
+- Every song list in the app (Home, Albums, Artists, Library, Favorites,
+  Playlists, Search) now has a consistent ⋮ overflow menu: Play Next, Add to
+  Queue, Add to Playlist, Delete Song.
+- Long-press any song to add it to a playlist from a bottom sheet, including
+  creating a new playlist on the spot.
+- Library has a new Refresh button (next to Search) to pick up newly added
+  or deleted songs immediately, without restarting the app.
+- Library tabs reordered to Albums, Songs, Artists — Songs still opens by
+  default.
+
 ## 1.1 (versionCode 2)
 
 - Now Playing's volume icon toggles mute: tap once to mute, tap again to
