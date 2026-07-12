@@ -1,5 +1,14 @@
 # EpicZ Release Notes
 
+## 1.3.0 (versionCode 5)
+
+- New: Search now has an "Online Results" section — search and stream music
+  from Jamendo's online catalog alongside your local library.
+- Online tracks stream instantly with no download required, and work with
+  Play Next, Add to Queue, Favorites, and Playlists just like local songs.
+- Automatically falls back to local-only results when there's no internet
+  connection.
+
 ## 1.2.1 (versionCode 4)
 
 - Fixed a bug where Settings kept showing "Install Update" even after an
