@@ -1,5 +1,13 @@
 # EpicZ Release Notes
 
+## 1.3.1 (versionCode 6)
+
+- **IMPORTANT:** this build's internal package identity changed, so it
+  installs as a separate app instead of upgrading in place. After
+  installing, manually uninstall the old EpicZ app once — every update
+  after this one will apply in place again as usual.
+- Removed the kiosk-mode status card from Settings.
+
 ## 1.3.0 (versionCode 5)
 
 - New: Search now has an "Online Results" section — search and stream music
