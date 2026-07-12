@@ -1,5 +1,12 @@
 # EpicZ Release Notes
 
+## 1.3.2 (versionCode 7)
+
+- Home screen redesign: Favorites now appears first, followed by a compact
+  2x3 grid of your 6 most recent songs, then Playlists.
+- Recent Songs updates automatically as you keep listening, and stays capped
+  at 6 so it no longer crowds out the rest of Home.
+
 ## 1.3.1 (versionCode 6)
 
 - **IMPORTANT:** this build's internal package identity changed, so it

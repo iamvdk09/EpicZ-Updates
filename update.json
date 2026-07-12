@@ -1,11 +1,11 @@
 {
-  "versionName": "1.3.1",
-  "versionCode": 6,
+  "versionName": "1.3.2",
+  "versionCode": 7,
   "apkUrl": "https://raw.githubusercontent.com/iamvdk09/EpicZ-Updates/main/app-release.apk",
-  "sha256": "132f4eaeb3623d9591621e3b81dcc486d358e3bec2e97ab63ac47a13ef8326d6",
-  "size": 9111600,
+  "sha256": "7e2c17dba6347d9b1aaa5aac046148dae6b8a52b2a73cd8c551aecd9658438bb",
+  "size": 9111736,
   "releaseNotes": [
-    "IMPORTANT: this build's internal package identity changed, so it installs as a separate app instead of upgrading in place — after installing, manually uninstall the old EpicZ app once; every update after this one will apply in place again as usual",
-    "Removed the kiosk-mode status card from Settings"
+    "Home screen redesign: Favorites now appears first, followed by a compact 2x3 grid of your 6 most recent songs, then Playlists",
+    "Recent Songs updates automatically as you keep listening, and stays capped at 6 so it no longer crowds out the rest of Home"
   ]
 }
