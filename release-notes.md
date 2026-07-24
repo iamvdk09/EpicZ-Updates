@@ -1,5 +1,13 @@
 # EpicZ Release Notes
 
+## 1.3.4 (versionCode 9)
+
+- New: a short branded intro plays once on a fresh app launch, pairing the
+  existing boot logo animation with a matching intro chime. Tap the screen
+  at any point to skip straight to Home.
+- The intro is truly one-shot: it never replays when you switch away and
+  back, or if the screen rotates mid-animation.
+
 ## 1.3.3 (versionCode 8)
 
 - Removed all kiosk-mode lockdown: screen pinning, the Device Owner/admin
