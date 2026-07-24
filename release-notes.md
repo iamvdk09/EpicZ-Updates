@@ -1,5 +1,15 @@
 # EpicZ Release Notes
 
+## 1.3.3 (versionCode 8)
+
+- Removed all kiosk-mode lockdown: screen pinning, the Device Owner/admin
+  path, boot auto-launch, home-screen takeover, and the back button that
+  could never exit the app. EpicZ now behaves like any normal Android app —
+  Home, Recents, switching away, and closing it all work as expected.
+- Fixed system UI insets so content never overlaps the status bar,
+  navigation bar, or a display cutout — including Now Playing's back/
+  favorite buttons and volume row, and every other full-screen view.
+
 ## 1.3.2 (versionCode 7)
 
 - Home screen redesign: Favorites now appears first, followed by a compact
